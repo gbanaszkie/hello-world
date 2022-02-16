@@ -1,2 +1,1 @@
-# hello-world
-Tutorial from GitHub
+A little about myself
